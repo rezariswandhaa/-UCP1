@@ -42,7 +42,7 @@
     text-align: right;
   }
   
-  .metime {
+  .carausel{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -56,12 +56,12 @@
     padding: 20px;
   }
 
-  .metime-item {
+  .carausel-item {
     text-align: center;
     margin-right: 20px;
   }
   
-  .metime-item img {
+  .carausel-item img {
     width: 200px;
     height: 200px;
     object-fit: cover;
